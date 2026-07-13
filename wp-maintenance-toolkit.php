@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP Maintenance Toolkit
- * Description: Otimização e manutenção de sites WordPress — limpeza de banco, cache, Heartbeat API e diagnóstico.
+ * Description: Otimizacao e manutencao de sites WordPress: limpeza de banco, cache, Heartbeat API e diagnostico.
  * Version: 0.1.0
  * Author: Garion Projetos
  * License: GPLv2 or later
